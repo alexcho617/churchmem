@@ -1,4 +1,4 @@
-`package com.mycom.batisapp.lab14;
+package com.mycom.batisapp.lab14;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
